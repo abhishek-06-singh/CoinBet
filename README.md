@@ -6,8 +6,11 @@ COINbet is a website that allows users to search for information about various c
 ## Features
 
 - Displays the current market price, 24-hour price change, market capitalization, and trading volume for the top 4 cryptocurrencies (Bitcoin, Ethereum, Binance Coin, and Cardano) in USD.
-- Allows users to click on a cryptocurrency to view more detailed information, including a description, website link, and social media links for the cryptocurrency.
+- Allows users to clickon a cryptocurrency to view more detailed information, including a description, website link, and social media links for the cryptocurrency.
 
+## Demo
+ ![screenshot (12)](https://github.com/abhishek-06-singh/CoinBet/assets/115978151/093c4d50-c7b8-4716-aa83-b9381b8dea80)
+ 
 ## Technologies Used
 
 ```H
