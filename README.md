@@ -1,5 +1,6 @@
 # COINbet
 
+<div align='center'><img style="width:16%" src='https://user-images.githubusercontent.com/105128267/220607693-29987a1c-8f0d-4835-9bfe-3b5c9f326b17.png'/></div>
 COINbet is a website that allows users to search for information about various cryptocurrencies in real-time. The website is designed to provide users with accurate and up-to-date information about the price, market cap, trading volume, and other key metrics of cryptocurrencies. The information is obtained using the _CoinGecko API_, which provides up-to-date market data for various cryptocurrencies.
 
 ## Features
