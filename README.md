@@ -10,7 +10,8 @@ COINbet is a website that allows users to search for information about various c
 
 ## Demo
  ![screenshot (12)](https://github.com/abhishek-06-singh/CoinBet/assets/115978151/093c4d50-c7b8-4716-aa83-b9381b8dea80)
- 
+ ![Screenshot Capture - 2023-09-12 - 15-16-43](https://github.com/abhishek-06-singh/CoinBet/assets/115978151/abcd787d-e3ed-460c-9714-acd776da3c93)
+
 ## Technologies Used
 
 ```H
